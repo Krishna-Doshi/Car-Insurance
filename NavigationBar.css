@@ -1,0 +1,9 @@
+.right{
+    display:flex;
+    float:right;
+    right:15px;
+}
+
+.color{
+    background-color: powderblue;
+}
